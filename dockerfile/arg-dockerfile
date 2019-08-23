@@ -1,0 +1,3 @@
+FROM ubuntu:latest
+ARG version
+ENV version $version
